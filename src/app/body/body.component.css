@@ -1,0 +1,25 @@
+
+/* Case Status Home */
+body{
+    background-color: #E5E5E5;
+}
+
+.Case{
+font-weight: bold;
+display: inline;
+font-size: 30px;
+color: #07639D;
+
+}
+
+#submit{
+font-size: 20px;
+background-color: yellow;
+color: #000000;
+}
+#search{
+    max-width: 140px;
+    font-size: 20px;
+    color:black;
+
+}

@@ -1,0 +1,32 @@
+.nav-menu{
+
+    padding: 6px 25px;
+    height: 37px;
+    background-color: #98C3DE;
+}
+
+.left{
+
+    float: left;
+    padding-right: 16px;
+    border-right:2px solid #000;
+}
+
+.nav-menu>div>ul>li{
+    list-style-type: none;
+    font-size: 20px; 
+}
+
+.right{
+    
+        float: right;
+        
+    }
+/* Find Producer */
+.Dropdown{
+
+font-size: 20px;
+color: #000000;
+background-color: #98C3DE;
+border-color: #98C3DE;
+}

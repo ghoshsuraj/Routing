@@ -1,0 +1,17 @@
+
+
+/* .nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link{
+
+  background-color: blue !important;
+} */
+.blue::ng-deep>ul>li>.nav-link.active{
+  
+    background-color: blue;
+    border-radius: 5px;
+  }
+
+  .blue::ng-deep>.tab-content>.tab-pane>p{
+    
+    background-color:rgba(152, 195, 222, 0.3);
+    height: 500px;
+    }
